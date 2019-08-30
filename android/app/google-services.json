@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646057770029",
+    "firebase_url": "https://testapp-b696c.firebaseio.com",
+    "project_id": "testapp-b696c",
+    "storage_bucket": "testapp-b696c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646057770029:android:f25e318214f9fa8a",
+        "android_client_info": {
+          "package_name": "it.ingpagano.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646057770029-tsqjm6s8j2d60pmmidllh5l7akrm1k83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQM-4uoEYs-LEheNc2Xw9J7HzjXATTJMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646057770029-tsqjm6s8j2d60pmmidllh5l7akrm1k83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
